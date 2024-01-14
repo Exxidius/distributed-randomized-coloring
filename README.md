@@ -1,6 +1,9 @@
 # Distributed-Randomized-Coloring
 Implementation of a Distributed Randomized Coloring algorithm
 
+Version of python3 used:
+Input: ``python3 --version``                                                                                               Output: ``Python 3.10.12``
+
 Usage:
 ```
 main.py [-h] [-g] [-c] [-v VERTICES] [-e EDGES]
